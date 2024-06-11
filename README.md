@@ -7,7 +7,7 @@ The knapsack problem involves a set of items, each with a specific weight and va
 #Genetic Algorithm Approach
 Genetic algorithms are adaptive heuristic search algorithms based on the evolutionary ideas of natural selection and genetics. They are particularly useful for solving complex optimization problems like the knapsack problem. The algorithm evolves a population of solutions over several generations to find the optimal or near-optimal solution.
 
-#Implementation Details
+# Implementation Details
 ### Data Generation:
 The generate_knapsack_data() function creates a list of items with randomly assigned weights and values. 
 ### Initial Population:
