@@ -31,5 +31,5 @@ Number of items: 20 Weight range: (1, 100) Value range: (1, 200) Knapsack capaci
 
 Number of items: 200 Weight range: (1, 100) Value range: (1, 200) Knapsack capacity: 3000 Mutation rate: 5% Generations: 100,000 The algorithm successfully maximized the value of items in the knapsack while respecting the weight constraint, showing significant improvements over the initial random populations.
 
-#Conclusion
+# Conclusion
 The genetic algorithm provides an effective method for solving the 0-1 knapsack problem, producing high-quality solutions within a reasonable time frame. The code in this repository can be easily adapted for various problem instances and parameters.
