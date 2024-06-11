@@ -25,10 +25,11 @@ The reproduction() function iterates through the selection, crossover, and mutat
 # Results
 The algorithm was tested on multiple instances of the knapsack problem with different parameters, demonstrating its effectiveness in finding high-quality solutions. For example:
 
-Initial Test Parameters:
+### Initial Test Parameters:
 
 Number of items: 20 Weight range: (1, 100) Value range: (1, 200) Knapsack capacity: 500 Mutation rate: 5% Generations: 10,000 Advanced Test Parameters:
 
 Number of items: 200 Weight range: (1, 100) Value range: (1, 200) Knapsack capacity: 3000 Mutation rate: 5% Generations: 100,000 The algorithm successfully maximized the value of items in the knapsack while respecting the weight constraint, showing significant improvements over the initial random populations.
 
-Conclusion The genetic algorithm provides an effective method for solving the 0-1 knapsack problem, producing high-quality solutions within a reasonable time frame. The code in this repository can be easily adapted for various problem instances and parameters.
+#Conclusion
+The genetic algorithm provides an effective method for solving the 0-1 knapsack problem, producing high-quality solutions within a reasonable time frame. The code in this repository can be easily adapted for various problem instances and parameters.
